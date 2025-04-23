@@ -1,0 +1,58 @@
+_repo: Winged-warfare-b-Hunting-the-Huns-in-the-air_75637
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bishop, William Avery
+    aliases:
+    - Bishop, Billy
+    - Bishop, Major (William Avery)
+    - Bishop, William A. (William Avery)
+    birthdate: 1894
+    deathdate: 1956
+    gutenberg_agent_id: '58079'
+    url: http://www.gutenberg.org/2009/agents/58079
+    wikipedia: https://en.wikipedia.org/wiki/Billy_Bishop
+description: 'Reading ease score: 74.9 (7th grade). Fairly easy to read.'
+gutenberg_bookshelf:
+- 'Browsing: Biographies'
+- 'Browsing: History - Warfare'
+gutenberg_issued: '2025-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75637'
+language: en
+pgterms:marc905: 20240618192547bishop
+pgterms:marc906: '1918'
+pgterms:marc907: GB
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bHodder and Stoughton, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Personal narratives, Canadian'
+- !lcsh 'World War, 1914-1918 -- Aerial operations, British'
+- !lcsh 'Bishop, William Avery, 1894-1956'
+- !lcsh 'Great Britain. Royal Flying Corps -- Biography'
+- !lcsh 'Fighter pilots -- Great Britain -- Biography'
+- !lcc 'D501'
+- GITenberg
+summary: '"Winged Warfare: Hunting the Huns in the Air" by William Avery Bishop is
+  an autobiographical account of aerial combat written in the early 20th century.
+  It chronicles the experiences of Major Bishop, a decorated pilot in the Royal Flying
+  Corps during World War I, as he describes his transition from cavalry to the thrilling,
+  perilous world of aerial warfare. The narrative captures the excitement and dangers
+  faced by pilots over the Western Front, including combat with enemy aircraft and
+  critical support for ground troops.  The opening of the book sets the stage for
+  Bishop''s military journey, starting from a muddy cavalry camp in England where
+  an unexpected encounter with a flying machine inspires him to become an aviator.
+  He reflects on his training as an observer and the dichotomy between the drudgery
+  of reconnaissance and the exhilaration of fighting in the air. It introduces his
+  ambitions and experiences as he makes the leap from a passive role to actively engaging
+  in the war as a pilot, eagerly anticipating his first chance to fight against the
+  enemy in the skies. This opening portion not only establishes his desire for adventure
+  but also paints a vivid picture of the early days of air combat and the profound
+  shift in warfare during that era. (This is an automatically generated summary.)'
+title: 'Winged warfare : $b Hunting the Huns in the air'
+url: http://www.gutenberg.org/ebooks/75637
