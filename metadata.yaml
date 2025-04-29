@@ -1,5 +1,8 @@
 _repo: Winged-warfare-b-Hunting-the-Huns-in-the-air_75637
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75637-h/images/cover.jpg
 creator:
   author:
     agent_name: Bishop, William Avery
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/58079
     wikipedia: https://en.wikipedia.org/wiki/Billy_Bishop
 description: 'Reading ease score: 74.9 (7th grade). Fairly easy to read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75637#Winged-warfare-b-Hunting-the-Huns-in-the-air
 gutenberg_bookshelf:
 - 'Browsing: Biographies'
 - 'Browsing: History - Warfare'
